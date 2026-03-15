@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="el-GR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erasmus Matcher</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand" onclick="goHome()">Erasmus<em>Matcher</em></div>
+    <div class="nav-tag">StackUnderflow</div>
+</nav>
+
+<main>
+    <!-- HERO: 2 columns -->
+    <section class="hero">
+        <div class="bg-map" aria-hidden="true"></div>
+
+        <!-- LEFT: hero chat card -->
+        <div class="hero-left">
+            <div class="search-card hero-chat-card">
+                <div class="hero-ai-bubble">
+                    Γεια σου! Πες μου σε ποιο πανεπιστήμιο και σε ποιο εξάμηνο θέλεις να πας Erasmus.
+                </div>
+                <div class="prompt-input-wrap hero-input-wrap">
+                    <textarea id="hero-input" class="prompt-textarea" rows="1"
+                              placeholder="π.χ. θέλω να πάω στο Aalto το 6ο εξάμηνο"
+                              maxlength="180"></textarea>
+                    <button id="hero-send-btn" class="prompt-send-btn" aria-label="Αποστολή">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="12" y1="19" x2="12" y2="5"/><polyline points="5 12 12 5 19 12"/>
+                        </svg>
+                    </button>
+                </div>
+                <div id="hero-error" class="hero-error hidden"></div>
+            </div>
+            <!-- Supported universities toggle -->
+            <div class="supported-wrap">
+                <button class="supported-toggle" onclick="toggleSupported(this)" aria-expanded="false">
+                    <span class="supported-plus">+</span>
+                    <span>Υποστηριζόμενα πανεπιστήμια</span>
+                </button>
+                <div class="supported-list hidden">
+                    <div class="supported-uni">
+                        <span>🇫🇮 Aalto University</span>
+                        <a href="https://www.aalto.fi" target="_blank" class="supported-link">aalto.fi ↗</a>
+                    </div>
+                    <div class="supported-uni">
+                        <span>🇪🇸 UPM Madrid</span>
+                        <a href="https://www.upm.es" target="_blank" class="supported-link">upm.es ↗</a>
+                    </div>
+                    <div class="supported-uni">
+                        <span>🇳🇱 TU Delft</span>
+                        <a href="https://www.tudelft.nl" target="_blank" class="supported-link">tudelft.nl ↗</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- RIGHT: big text -->
+        <div class="hero-right">
+            <h1 class="hero-title">Study without borders.</h1>
+            <p class="hero-desc">Το ErasmusMatcher βοηθά τους φοιτητές να βρούν ποιά πανεπιστήμια του εξωτερικού ταιριάζουν καλύτερα με τα μαθήματά τους.</p>
+            <p class="hero-disclaimer">Μετά την προτεινόμενη αντιστοίχηση, επισκεφθείτε τον συντονιστή ECTS της σχολής/τμήματός σας, με τον οποίο θα συζητήσετε τις επιλογές σας.</p>
+        </div>
+    </section>
+
+    <div id="loading" class="hidden" role="status" aria-live="polite" aria-label="Φόρτωση αποτελεσμάτων">
+        <div class="loader-ring"></div>
+        <p>Αναλύουμε τα προγράμματα σπουδών…</p>
+    </div>
+
+    <section id="results-section" class="hidden" aria-label="Αποτελέσματα αντιστοίχησης μαθημάτων">
+        <div class="results-label">Κορυφαίες Επιλογές</div>
+        <div id="results-list" role="list"></div>
+    </section>
+</main>
+
+<footer>Erasmus Matcher · StackUnderflow · Hackathon project</footer>
+<script src="{{ url_for('static', filename='app.js') }}"></script>
+<script src="{{ url_for('static', filename='map.js') }}"></script>
+</body>
+</html>

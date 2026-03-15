@@ -1,0 +1,352 @@
+[
+  {
+    "content": "Differential and Integral Calculus 1 :After the course the student will be able to analyze the convergence of sequences and series, be familiar with the series expansions and approximations of elementary functions, master the most important properties, calculation methods, and applications of the derivative and the integral, be able to solve a first order differential equation in the linear and separable cases, be able to solve a linear second order differential equation in the case of constant coefficients. (sequences, series, power series, derivatives and integrals, basic types of differential equations)",
+    "metadata": {
+      "course_id": "MS-A0111",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Differential and Integral Calculus 1",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+
+  {
+    "content": "Matrix Algebra: After the course the student, can write systems of linear equations in matrix form, can solve systems of linear equations in matrix form using Gaussian elimination, can perform basic matrix operations, can compute the eigenvalues of a square matrix, understands the significance of matrix decompositions. (Vector computations, matrices and systems of linear equations, eigenvalues)",
+    "metadata": {
+      "course_id": "MS-A0011",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Matrix Algebra",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+
+  {
+    "content": "Differential and Integral Calculus 2: After the course the student will, know how to calculate approximations with the aid of partial derivatives, be able to solve systems of equations with Newton s method, know and understand the basic ideas of optimization, be able to use Lagrange multipliers, be able to calculate double and triple integrals, be able to change the order of integration in double integrals, know how to change variables in double and triple integrals. (Functions of several variables and their derivatives, optimization of functions with several variables, double and triple integrals)",
+    "metadata": {
+      "course_id": "MS-A0211",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Differential and Integral Calculus 2",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+
+  {
+    "content": "First Course in Probability and Statistics: After course the student, can compute probabilities of composite events by applying operations of set theory, is familiar with the most important discrete and continuous probability distributions and recognizes situations that can modeled with them, can apply joint distributions to compute statistics of random vectors and to recognize when two random variables are stochastically independent, knows methods for estimating the parameters of a statistical model, can compute posterior distributions and make conclusions based on them, can explain what can and what cannot be concluded from a p-value of chosen statistical test, can use a computer to investigate data sets and probability distributions. (- the notion of probability and its basic arithmetic rules, the most important discrete and continuous distributions, expectation, sample mean, and the law of large numbers, variance, sample variances, and normal approximation, stochastic dependence and correlation, description of data using statistics and histograms, parameter estimation of statistical models, the concept of a confidence interval, prior distribution, likelihood function, and posterior distribution, testing of simple statistical hypotheses)",
+    "metadata": {
+      "course_id": "MS-A0503",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "First Course in Probability and Statistics",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+
+  {
+    "content": "Signals and Systems : The student should learn the basic principles of signal and system analysis, know the most common signal transforms and understand the frequency domain representation of the signal and learn to use for signal analysis. After the course the student should master filtering of deterministic and stochastic signals with linear lowpass and bandpass filters and know the principles of analog to digital transform and the utilized mapping parameters. (Nature of signals, frequency analysis of signals, linear and memoryless systems and their signal analysis, arbitary signals in linear systems, modulated signals, calculation exercises and laboratory works.)",
+    "metadata": {
+      "course_id": "ELEC-A7200",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Signals and Systems ",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+
+  {
+    "content": "Programming 1 : Key content: Programming, imperative programming, object-oriented programming; reading program code; writing and modifying program code to conform to a given specification; statements and expressions; variables, data types, functions, parameters, return values, objects, classes, methods, arrays and buffers, selection, loops; programming style; class libraries and program documentation; using an integrated development environment. Highly recommended content: Stages of program code (source code, compiler, intermediate language, virtual machine); program execution (e.g., call stack, garbage collection); reading and writing text files; key-value maps; traits and inheritance; immutable vs. mutable objects; function objects, higher-order functions, anonymous functions; some basic aspects of code quality. Additional content: graphical user interfaces; recursion; designing one s own program.",
+    "metadata": {
+      "course_id": "CS-A1110",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Programming 1",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+
+  {
+    "content": "Programming 2 : Principles of binary representation of integers and floating point numbers. Bit-level operations. Gates as basic logic operators and how these can be combined to create circuits (e.g. for an adder). General computer architecture from gate level to high-level programming. Implementation of simpler functions in assembly language. The big-O definition, and concept of computational resources. Aspects of functional programming and recursion. Simple parallel programming constructs. Independent programming, knowledge of computer science, and problem-solving with computers.",
+    "metadata": {
+      "course_id": "CS-A1120",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Programming 2",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+
+  {
+    "content": "Basic Course in C Programming : Basic constructs of C programming language , Dynamic memory management, Basic functions of C Programming Language standard library",
+    "metadata": {
+      "course_id": "ELEC-A7100",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Programming 2",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+
+  {
+    "content": "Data Structures and Algorithms : Principles of algorithm analysis. Elementary data structures. Sorting algorithms, divide and conquer algorithm design paradigm. Tree data structures and algorithms. Tree-based search data structures. Hash functions and tables. Dynamic programming. Data structures and algorithms for graphs. Multithreaded algorithms and computational more difficult problems.",
+    "metadata": {
+      "course_id": "CS-A1140",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Data Structures and Algorithms",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+
+  {
+    "content": "Machine Learning : Students can formalize applications as ML problems and solve them using basic ML methods. Students can perform basic exploratory data analysis. Students understand the meaning of the train-validate-test approach in machine learning. Students can apply standard regression and classification models on a given data set. Students can apply simple clustering and dimensionality reduction techniques on a given data set. Students are familiar with and can explain the basic concepts of reinforcement learning and language modeling. Exploratory data analysis. Dimensionality reduction, PCA. Regression and classification. Clustering. Deep learning. Reinforcement learning. Language Modeling.",
+    "metadata": {
+      "course_id": "CS-C3240",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Machine Learning",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+
+  {
+    "content": "Mechanics : Motion, force, momentum, kinetic energy, angular momentum, energy of rotation and moment of inertia. Inertial and non-inertial coordinate systems, fictional forces, Galilei's relativity principle and Galilei transformation. Periodic motion, damped oscillation and basic concepts for wave motion.",
+    "metadata": {
+      "course_id": "PHYS-C0110",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Mechanics",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+
+  {
+    "content": "Computer Architectures with RISC-V  : The course introduces the evolution of computer architecture and factors influencing the design of hardware and software elements of computer systems. After the course the attendee should understand the common architectural elements and inner workings of modern digital computer systems, as well as have some perspective on trade-offs present at the hardware-software interface.",
+    "metadata": {
+      "course_id": "ELEC-C7440",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Computer Architectures with RISC-V ",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+
+  {
+    "content": "Basic Principles in Networking  : This course provides a theoretical and practical basis for computer networking. Besides basic networking principles, the course provides case studies of network protocols at each layer of the OSI model. Examples include HTTP and TCP/IP for data center networking, Bluetooth and Bluetooth Low Energy for short-distance device-to-device communication, and symmetric and asymmetric encryption protocols and VPN for secure communications.",
+    "metadata": {
+      "course_id": "ELEC-C7420",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Basic Principles in Networking ",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+
+  {
+    "content": "Basics of Electronic Circuits  : Quantities, definitions, and laws in electronics, Basic circuit components: resistor, inductor, and capacitor, Direct-current and alternating-current circuit-analysis methods, Frequency-domain representation and transfer functions, Nonlinearity in electronics, Operational amplifier",
+    "metadata": {
+      "course_id": "ELEC-C9620",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Basics of Electronic Circuits",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+  {
+    "content": "Information Security: Security models and terminology, authentication, access control, software security, cryptography, network security, threat analysis, identity management, privacy, security policies and regulation. After taking the course, students are familiar with the key concepts and abstractions of information security and understand the purpose, function and weaknesses of several security technologies. They are able to model threats and analyze the security of a system critically, from the viewpoint of an attacker.",
+    "metadata": {
+      "course_id": "CS-C3130",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Information Security",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+  {
+    "content": "Software Engineering: The course covers the main problems, models and methods of software engineering, including traditional and agile/lean software development. The main software engineering activities, including software requirements engineering, software architecture, software design, implementation, testing and deployment are covered. Supporting workflows, e.g., configuration management and project management are also discussed.",
+    "metadata": {
+      "course_id": "CS-C3150",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Software Engineering",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+  {
+    "content": "Human-Computer Interaction: This course covers the foundations of Human-Computer Interaction - the study of how digital systems and services can be designed to support the needs of the people who we intend to use them. The course provides an introduction to user interface (UI) and user experience (UX) design, focusing on the human-centred design process as a way of understanding user needs and requirements and testing designs. At a basic level we will cover Usability, Human-centered design, prototyping, and how this process fits into existing software product development.",
+    "metadata": {
+      "course_id": "CS-C3120",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Human-Computer Interaction",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+  {
+    "content": "Computer Graphics: Basic understanding of modern computer graphics as a whole (modeling, animation, rendering) and ability to implement a number of practical algorithms in C++. Understanding of how the graphics processor (GPU) works. Content includes: Geometric modelling, visual simulation, shading and lighting, ray tracing, the real-time graphics pipeline, mathematical foundations of computer graphics.",
+    "metadata": {
+      "course_id": "CS-C3100",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Computer Graphics",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+  {
+    "content": "Operating Systems: After completing the course, you will be able to explain the principles behind the implementation of operating systems; discuss abstraction and management of system resources; describe the typical data structures and algorithms that are commonly employed in operating systems. Topics include: Operating system structure and elements of computer architecture. Processes and threads. Memory management and file systems. Concurrency and parallelism. Virtualization.",
+    "metadata": {
+      "course_id": "CS-C3140",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Operating Systems",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+  {
+    "content": "Databases: The course provides an introduction to relational database systems and their use. Topics include database design using the Entity-Relationship model, the relational data model, relational algebra, SQL querying and updates, application programming with databases, transaction management, and basic database architecture including indexing and query execution.",
+    "metadata": {
+      "course_id": "CS-A1150",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Databases",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+  {
+    "content": "Web Software Development: Student understands what web applications are, how they function, and how they are constructed. Student understands the responsibilities of client-side web applications and server-side web applications, and is able to design, implement, and test web applications. Topics include: Internet and HTTP, HTML, CSS, JavaScript, Web Development Tools, Server- and Client-side Web Applications, Working with Databases, Containerization and Testing, Managing Web Application State, Authentication, APIs, and Web Application Security.",
+    "metadata": {
+      "course_id": "CS-C3170",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Web Software Development",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+  {
+    "content": "Complex Networks: This course will provide students with fundamentals of complex network theory, together with skills for applying this knowledge into practical network analysis. Topics include introduction to complex networks, stochastic interactions, non-trivial interaction structures, network science algorithms, and applications in computational social science and biological networks.",
+    "metadata": {
+      "course_id": "CS-E5740",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Complex Networks",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+  {
+    "content": "Advanced Course in Algorithms: This course will deepen your knowledge and skills in algorithm design. You will become familiar with a number of advanced design principles and tradeoffs between objectives and computational resources. Topics include advanced algorithm design techniques such as randomization, approximation, parameterisation, and algebrisation. Examples of contemporary advanced algorithms and supporting data structures.",
+    "metadata": {
+      "course_id": "CS-E4500",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Advanced Course in Algorithms",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+  {
+    "content": "Logic and Hard Computational Problems: This course introduces you to the logical formalization of mathematical reasoning and to the mathematics of computational intractability. You learn to work with and reason using propositional logic and first-order logic. You learn how to prove that a computational problem is at least as hard as another computational problem by presenting an efficient reduction from the latter to the former. You know the problem classes P and NP, as well as the hardest problems in the class NP, namely the NP-complete problems.",
+    "metadata": {
+      "course_id": "CS-E4700",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Logic and Hard Computational Problems",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+  {
+    "content": "Mobile Systems Programming: The course gives an overview of mobile computing platforms, mobile application development, and mobile service design. Topics include smartphone OS architectures, sensor data collection, user interfaces, persistent data storage, background processing, and communication in mobile systems. Students will design and implement a mobile application as a project work.",
+    "metadata": {
+      "course_id": "CS-E4170",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Mobile Systems Programming",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+
+  {
+    "content": "Music Programming: Sinewave representations, frequency analisys, timbre specification, learning to create music with programming, recreational coding",
+    "metadata": {
+      "course_id": "CS-E2222",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Music Programming",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+  {
+    "content": "Robotics and Autonomous Systems: Introduction to robotic perception, motion planning, sensor fusion, autonomous navigation, and control systems for mobile robots.",
+    "metadata": {
+      "course_id": "ELEC-E8125",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Robotics and Autonomous Systems",
+      "ects": 5,
+      "semester": 2,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  },
+  {
+    "content": "Deep Learning: Neural network architectures, backpropagation, convolutional networks, recurrent networks, transformers, and applications in computer vision and NLP.",
+    "metadata": {
+      "course_id": "CS-E4890",
+      "university": "Aalto University",
+      "country": "FI",
+      "title": "Deep Learning",
+      "ects": 5,
+      "semester": 3,
+      "syllabus_url": "https://sisu.aalto.fi/"
+    }
+  }
+]

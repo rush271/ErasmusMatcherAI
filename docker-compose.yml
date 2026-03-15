@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  erasmus-web:
+    build: .
+    container_name: erasmus_matcher_app
+    ports:
+      - "8080:8080"
+    env_file:
+      - .env
+    volumes:
+      - ./chroma_db:/app/chroma_db
+    restart: unless-stopped

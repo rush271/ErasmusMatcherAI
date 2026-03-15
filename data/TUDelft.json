@@ -1,0 +1,397 @@
+[
+  {
+    "content": "Introduction to Programming: Introductory programming course focused on programming in Java.The course covers:    Primitive datatypes: value domains, operators, expression, declarations and assignments.    Control structures: conditional selection, repetition.    Composition of data: arrays, Strings, ArrayLists, Sets.    Classes: specification, implementation, equality en hashcodes.    Inheritance: modeling inheritance, type casts, polymorphism, static and dynamic binding.    Use of libraries (APIs).    Code quality: best practices, unit testing (with JUnit), debugging strategies.    Exception handling.    Generics.    Basic IO operations (user input / reading / writing).    Design en implementation of small programs.    Functional programming in Java (streams, map, filter).After completing this course, the student:    Can write methods and classes using the Java programming language.        Can write methods and classes using correct indentation and coding style.        Can write equals and hashCode methods for a class using the Java programming language.        Can create and manipulate a data structure using methods and classes.    Can design, implement and debug a simple program that contains inheritance and interfaces using the Java programming language.    Can design, implement and debug a simple program that reads from files, and writes to files using the Java programming language.    Can write unit tests for a program in Java using the Junit testing framework.    Can effectively search for existing packages, classes and programming solutions, using the Java documentation as well as online resources, and apply this information in their own programs.    Can describe key characteristics of different programming paradigms and the Java programming language.",
+    "metadata": {
+      "course_id": "CSE1100",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Introduction to Programming",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14247"
+    }
+  },
+
+  {
+    "content": "Reasoning and Logic: It is often useful or even essential to know if a certain statement is true, e.g. Pythagoras' famous a^2 + b^2 = c^2 theorem about right-angled triangles. Knowledge gathered from these statements or theorems can be broadly used to solve more complicated problems. This way of working, i.e., deriving more complex theorems from simpler ones, is useful in many fields, in particular also in computer science.An argument is a set of premises or assumptions, followed by a conclusion. To be certain of the truth of an argument, the conclusion has to be a logical consequence of the assumptions. To prove this, the conclusion is derived from the premisses. The derivation shows us that once all premises are true, the conclusion is true as well.The course Reasoning and Logic is about proving the logical validity of arguments. What is a valid argument? When is an argument logically valid and when is it not? How can we determine whether an argument is logically valid? How can we derive a logically valid conclusion from the premises? Or how can we prove that a conclusion is not a logical consequence of the premises?In this course we will first explain a number of basic proof techniques, such as proof by contradiction, proof by mathematical induction, proof by division into cases, and the use of invariants. The application of these techniques will be practiced by proving and rejecting simple mathematical theorems.These proof techniques can only lead to a valid argument when the formulation of the premises and the conclusion is sufficiently precise. To express statements precisely, multiple artificial languages exist, of which we will learn two: propositional calculus and predicate logic. For both languages we look at the syntax and semantics and study how to translate expressions from a natural language to the more exact languages. Furthermore we will look at how to establish the logical validity of an argument in both languages.Moreover, to be able to assign truth values to formulas in predicate logic and because of the importance of this subject in every exact science, in this course we will also pay attention to elementary set theory.Together, the course provides tools that have important applications across mathematics, computer science, philosophy, and beyond.After this course, the student is able to:    translate a logically precise claim to and from natural language.    describe the operation of logical connectors and quantifiers.    describe the notion of logical validity.    explain and apply basic set and graph operations.    define and perform computations with functions, relations and equivalence classes.    construct and interpret recursive definitions, including recursive data structures like trees.    construct an appropriate function or relation given a description (in natural language or formal notation).    construct a direct or indirect proof (by contradiction, division into cases, generalisation, or [structural] induction) or logical equivalence, or counterexample for (in)valid arguments, in propositional logic, predicate logic and set theory.    identify what type of proof is appropriate for a given claim.    solve simple SAT instances.",
+    "metadata": {
+      "course_id": "CSE1300",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Reasoning and Logic",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14253"
+    }
+  },
+
+  {
+    "content": "Computer Organisation: Rationale Computers are everywhere.Topics include: the architecture, the structure, the operation and the interconnection of computer components into computer systems, including modern architectures, data representation, assembler programming, virtual machines, the structure of translators, compiling and loading, basic operating systems concepts (I/O, interrupt handling, process).Students can:    Explain the basic concepts, historical objectives, and modern functions of digital computers.    Evaluate and recommend number representation systems and digital circuits when given a set of realistic system constraints.    Derive conversion functions for Boolean algebra.    Use arithmetic and conversion functions on well-known number representation formats.    Describe the architecture and operation of digital computers.    Perform operations using each of the main components of a digital computer: the basic processing unit, the I/O system, the memory system, the interconnection system.    Explain system mechanisms for building faster processors, such as pipelining, memory organization, caching, and parallelism.    Analyze the trade-offs inherent in the design of digital computers, concerning among others performance, cost, scalability, availability, and energy consumption.    Demonstrate proficiency with basic assembly programming by implementing realistic basic programs used in digital computers.",
+    "metadata": {
+      "course_id": "CSE1400",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Computer Organisation",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14255"
+    }
+  },
+
+  {
+    "content": "Calculus: The main objective of this course is to provide a solid basis of mathematical concepts and skills that will be necessary in the rest of the Bachelor Computer Science en Engineering. The material treated in this course plays an important role in courses such as Algorithms and Data Structures, Linear Algebra, Computer Graphics, Probability and Statistics, Signal Processing and Image Processing.Here is a list of topics that will be treated in this course, and the associated learning objectives.    Understanding of functions. The student can determine domain, range and inverse of a given function, and sketch its graph. The student can simplify compositions of functions, in particular in case of (inverse) trigonometric functions.    Limits. The student knows and understands the concept of limits as well as the associated rules of calculation. The student can evaluate limits. The students knows the conditions under which 'Hospitals Rule can be applied, and can apply the rule in these cases.    Differentiation. The student knows the rules of calculation for differentiation, in particular the Chain Rule. The student can apply those to determine derivatives (first order and higher) of a given function, if necessary by implicit differentiation. The student can determine linearisations and differentials of functions.    Integration: The student knows and understands the definition of an integral in terms of Riemann sums, and can apply the Fundamental Theorem of Calculus to calculate integrals. The student knows the rules of calculation for integration, in particular the Substition Rule and Integration by parts, and can employ these to find anti-derivatives and evaluate integrals.    Sequences and Series. The student can determine convergence and limits of a (possible recursively defined) sequence. The student masters techniques, in particular the Comparison test, Alternating Series Test and the Ratio Test, to determine convergence and absolute convergence of a given series. The student can determine the radius of convergence and interval of convergence of a given power series. The student is able to determine the limit of certain types of (power) series.    Complex numbers. The student knows the rules of calculation for complex numbers and can apply those to solve algebraic equations. The student knows and can apply Euler's Identity and De Moivre's Rule.    Multivariate functions. The student can sketch and interpret graphical representations of functions of several variables. The student can determine linearisations, tangent planes, directional derivatives, gradient and local extrema of multivariate functions.    Integration of multivariate functions. The student can evaluate the integral of a function in two variables on a simple region and interpret the answer.",
+    "metadata": {
+      "course_id": "CSE1200",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Calculus",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14250"
+    }
+  },
+
+  {
+    "content": "Collaborative Software Engineering Project: Modern software development is not just about knowing the right programming language or the right technology stack. It is as important to know how to work together in a team to get a serious programming project done.In this course, you will learn how to collaboratively create a software system. The contents of this course include learning about teamwork, interpreting requirements given by a client and breaking them down into actionable tasks, using popular collaboration tools like GitLab to plan and track project progress, using collaborative tools like Git, and learning popular frameworks and libraries to bring the project to success.The first weeks of the course will be structured through lectures to get you and your group started, afterwards, the course will transition into the implementation phase, in which you will work on the project. Every group will be supervised by a TA.After completing this course, you will be able to ...    Act professionally in a team of software developers        Get insight into how you work in a team and make agreements        Chair a meeting and take minutes        Give and receive feedback        Work on a software project in a sustainable manner    Manage a complex software project in a group        Break down a formal product backlog into actionable tasks        Plan and manage the project tasks in GitLab        Organize and distribute tasks between team members    Follow a collaborative software engineering process        Use Git to version and share source code contributions        Integrate testing in your process        Contribute source code to a group project through GitLab merge requests        Evaluate code contributions of other team members in GitLab merge requests    Create a client/server application from a provided set of project requirements        Build a server application with Spring Boot        Build a graphical client with Java FX        Exchange data through REST using automated object mapping        Manage the lifecycle of an application through dependency injection",
+    "metadata": {
+      "course_id": "CSE1105",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Collaborative Software Engineering Project",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14248"
+    }
+  },
+
+  {
+    "content": "Web and Database Technology: Web and Database Technologies is a first-year course that provides an introduction to web and database technologies and programming.Topics related to web technology and programming include:    Introduction to the web and HTTP;    Introduction to web development and app design;    Front-end development: HTML, CSS, JavaScript;    Back-end development: Node.js.Topics related to database technologies include:    Introduction to databases;    Overview of database Languages and architectures;    The basic relational model; database design theory;    SQL: data definition, constraints, updates, queries, views, triggers;    Relational databases and object persistence;    Introduction to non-relational database models: key-value stores, document stores, graph databases.Upon completion of this course, participants will have gained knowledge of web and database system concepts and the ability to:    Explain the basic architecture of the Internet and the Web    Analyse the requirements for a web application given a description of an application idea    Create an application front-end with HTML and CSS based on a given static design and justify design choices    Create an interactive web application with client-side JavaScript and justify design choices    Explain the elements of the Relational Model and contrast them with other Data Models    Design Conceptual and Logical Database Schemas and justify design choices;    Apply DB theory to improve Logical Schemas with focus on functional dependencies, keys, and database normalization, and justify design choices.    Design and analyse SQL queries    Prototype and deploy database applications using open-source database systems.",
+    "metadata": {
+      "course_id": "CSE1500",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Web and Database Technology",
+      "ects": 5,
+      "semester": 1,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14257"
+    }
+  },
+
+  {
+    "content": "Linear Algebra:     Solving systems of linear equations (using Gaussian elimination)    Vectors in R^n    Linear dependence/independence    Matrix algebra (sum, product, inverse)    LU decomposition of a matrix    Lineare transformations    Subspaces in R^n (basis, dimension); column space and null space    Determinants    Eigenvalues and eigenvectors    Diagonalization    Inner products and orthogonal sets    Orthogonal projections    Method of least squares and linear models    Symmetric matricesAn important goal of the course is to make the student comfortable with fundamental notions from linear algebra. At the end of this course you will be able to understand the connections between these concepts. You may also be asked to come up with proofs for elementary properties (i.e. write down a consistent/correct short proof) and give a correct counterexample.After successfully completing the course you will be able to:    Solve systems of linear equations.    Identify if a system of linear equations is solvable, and if the solution is unique.    Show the equivalence between a vector equation, a matrix equation and a system of linear equations.    Give a geometric description of solutions sets of vector equations.    Determine the linear (in)dependence of a set of vectors and identify the (geometric) properties of linear dependence.    Identify if a transformation is linear and determine the standard matrix of a linear transformation.    Determine the matrix of geometric linear transformations.    Be able to perform matrix operations (sum, scalar multiple, multiplication, transpose) and describe the law-like properties of matrix multiplication and apply these properties.    Describe the properties of invertible matrices, determine the inverse of a non-singular matrix and apply these topics.    Give definitions of subspace, column space and null space of a matrix and determine a basis for a subspace.    Describe and apply the concept of dimension of a linear subspace, rank of a matrix and the rank theorem.    Determine the LU-decomposition of a matrix.    Determine the determinant of a matrix by applying the properties of a determinant.    Apply the properties of determinants (product, transpose, inverse).    Determine the eigenvalues and eigenvectors of a matrix.    Determine the algebraic and geometric multiplicity of a matrix.    Determine if a matrix is diagonalizable and if so, determine a diagonalization of the matrix.    Analyze the case of complex eigenvalues and eigenvectors.    Determine the matrix of a linear transformation with respect to a basis.    Calculate and apply properties of the inner product in the context of orthogonality and orthogonal sets.    Calculate the orthogonal projection on a subspace.    Determine an orthogonal basis of a subspace by means of the Gram-Schmidt process.    Explain the normal equation of the least-squares method and apply the least-squares method to linear models.    Explain and calculate the orthogonal diagonalization of symmetric matrices and describe the spectral theorem for symmetric matrices.",
+    "metadata": {
+      "course_id": "CSE1205",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Linear Algebra",
+      "ects": 5,
+      "semester": 2,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14251"
+    }
+  },
+
+  {
+    "content": "Algorithms and Data Structures: Algorithms and data structures are fundamental notions in computer science. Understanding how they can be exploited in combination for better programming implementations in terms of time and space complexity is vital for writing efficient code. This course equips students with the analytic and implementation skills needed to design, reason about, and deploy efficient solutions in Java.The course opens with core data structures, beginning with fundamental containers such as arrays and linked lists and then progressing to ordered structures such as stacks, queues, priority queues, heaps, and maps. The students learn to devise and analyse both iterative and recursive operations, and quantify their time- and space-complexity. The syllabus proceeds to sorting, examining selection, insertion, heap, merge, quick, bucket, and radix sorts so that learners can implement, analyse, and judiciously select an algorithm tailored to different constraints on time and space complexities. Next comes searching: balanced search structures (generic search trees, AVL trees, and (2,4)-trees). The programme culminates in graphs and graph algorithms—covering directed and undirected representations, weighted variants, and adjacency schemas—followed by breadth- and depth-first traversals, connectivity and cycle tests, topological ordering, single-source shortest paths, and minimum-spanning trees, enabling participants to select suitable graph representations and implement state-of-the-art algorithms with proven performance guarantees. At the end of the course the student should be able to(LO1) Analyse the properties of the studied algorithms and data structures including their time and space complexities.(LO2) Implement the studied data structures using the Java programming language.(LO3) Implement the studied algorithms employing appropriate data structures using the Java programming language.(LO4) Devise solutions to different problem scenarios by choosing appropriate data structures and algorithms.",
+    "metadata": {
+      "course_id": "CSE1305",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Algorithms and Data Structures",
+      "ects": 5,
+      "semester": 2,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14254"
+    }
+  },
+
+  {
+    "content": "Information and Data Management: In this course you will learn how to model, manage, and query information in a Database Management System (DBMS). We will focus on different data modelling techniques, but also on aspects of query processing like for example query parsing or optimization. Also transaction management is a central topic of interest. The core focus is on classic relational OLTP databases, but we will also briefly touch alternative systems like the current NewSQL-trend and systems optimized for in-memory or OLAP applications. Additionally, NoSQL systems and their respective data models will be discussed.    Database normalization: modelling in an unambiguous and non-redundant manner in relational tables such that inconsistencies and anomalies are avoided.    File-organization and indexing: the data structures and their associated algorithms to store data in memory and on disk, such that it can be retrieved and processed efficiently when needed.    Query processing and optimization: the techniques that are used by a DBMS to execute certain SQL queries as efficiently as possible, taking into account how the data is stored and which indexes are present. This also covers Relational Algebra.    Transaction management and concurrency control: the techniques that a DBMS offers to allow different users and application to operate in parallel on the same data without interfering with each other or causing inconsistencies in the data.    NewSQL and alternative system: the systems beyond traditional relational database design space optimized for specialized requirements like extreme OLTP performance, OLAP queries, or in-memory storage.    NoSQL and non-relational data: in the recent years, systems not relying on the relational model became popular. We will also discuss how this affects data modelling, especially with respect to document models, key-value models, wide-columnar models, but also graph models.The course aims at teaching the basic competencies required to design and understand applications interacting with relational database management systems (RDBMS). Students will gain an insight into how RDBMS are implemented, learn about the available design choices, and the trade-offs imposed by different designs. This allows students to competently identify and solve problems in application design, and to improve and tune data models and queries. We will also deal with non-relational systems and discuss how they affect the data processing workflow.    Perform Data Modeling and be able to:        Design and implement normalized relational schemas in a database system, by designing Entity Relationship diagrams and translating them to relational tables.        Describe alternative data models such as the document model, key-value model, or graph models and analyze the trade-offs as in comparison to the relational model.        Analyze the requirements of a given application scenario and be able to derive a suitable data model.    Get a grip of the internals of relational database systems by being able to:        Describe and analyze the two main ways of storing and representing data in relational databases as well as analyze their performance trade-offs with respect to input/output (IO) costs.        Describe different index structures and analyze their impact on query response time for range-, point- and join queries.        Analyze the trade-offs between different physical operators for database operations such as joins, aggregates and filters.        Describe and apply the query optimization process and design physical execution plan and compute the costs for their relational operations.        Explain the need for transaction protocols and illustrate database update anomalies that can arise in the absence of such protocols. Be able to apply such protocols for given scenarios.        Evaluate and apply different recovery algorithms such as UNDO/REDO logging, under different types of failures and their frequency.",
+    "metadata": {
+      "course_id": "CSE1505",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Information and Data Management",
+      "ects": 5,
+      "semester": 2,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14258"
+    }
+  },
+
+  {
+    "content": "Probability Theory and Statistics:     Graphical and numerical summaries of data    Introduction to probability    Some elementary combinatorics to find probabilities    Conditional probability; Bayes' rule; stochastic (in)dependence    Random variables; probability mass function; density function; distribution function    Standard distributions: Binomial, Poisson, Geometric, Normal, Uniform, Exponential, Pareto    Expectation and variance; transformations; Jensen's inequality    Multivariate random variables; joint distributions; joint and marginal density functions; (in)dependence of random variables    Covariance and correlation    Chebychev's inequality; Law of Large numbers; Central Limit Theorem    Sampling theory and statistical models; mean, sample variance, histogram, empirical distribution function, boxplot    Theory of Estimators: Bias, Efficiency, Mean squared error    Linear Regression: univariate and multivariate, categorical variables, goodness of fit    Confidence intervals for Mean and Proportion; t-distribution    Testing theory: Type I/II Error, p-value, significance level, critical region, multiple testing, p-hacking    Hypothesis tests on mean(s), proportion(s), variance, regression parametersAt the end of the course, the students will be able to:    compute (conditional) probabilities    use discrete and continuous random variables    use joint random variables    compute expectation and (co)variance    apply the law of large numbers and the central limit theorem    analyse data by means of graphical and numerical summaries    formulate a statistical model    estimate parameters    perform a linear regression analysis    construct a confidence interval    formulate and carry out hypothesis tests    know how to avoid pitfalls in hypothesis testing    interpret Python (or similar) output of the data analysis described above",
+    "metadata": {
+      "course_id": "CSE1210",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Probability Theory and Statistics",
+      "ects": 5,
+      "semester": 2,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14252"
+    }
+  },
+
+  {
+    "content": "Software Quality and Testing: The course covers the most important testing techniques needed to build high quality software systems. The course covers both the testing techniques themselves, and the software design techniques needed to create testable systems.Specific topics covered are:    testing principles, test levels, and the testing pyramid    software testing automation and JUnit    specification-based testing    structural testing and the different coverage criteria    boundary analysis and testing    design by contract    property-based testing    test doubles and mock objects    design for testability    test-driven development (TDD)    larger tests (SQL and web testing)    test code quality and test smellsBy the end of the course, students will be able to:    Create unit, integration, and system tests using current existing tools (like JUnit, Mockito, and JaCoCo) that effectively test complex software systems.    Derive test cases that deal with exceptional, corner, and bad weather cases by performing different testing techniques as well as able to reflect about their limitations, when and when not to apply them in a given context.    Measure and reflect on the efficiency of the developed test suites by means of different test adequacy metrics (i.e., line, branch, condition, MC/DC coverage).    Design and implement testable software systems by means of architectural patterns such as dependency injection and ports and adapters.    Write maintainable test code by avoiding well-known test code smells.    Understand and apply state-of-the-art techniques for intelligent software testing, such as property-based testing.",
+    "metadata": {
+      "course_id": "CSE1110",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Software Quality and Testing",
+      "ects": 5,
+      "semester": 2,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14249"
+    }
+  },
+
+  {
+    "content": "Computer Networks: Computer networks form the basis of all digital communication. They are typically structured in layers. Each layer has clearly defined functions and algorithms, which we will discuss in class. Furthermore, the course also discusses potential security issues and defences in computer networks, thereby also providing an introduction to cryptographic notions utilised by those defence mechanisms.    The student can describe the principles of layered architectures, in particular the functions and purposes of the various network layers.    The student can describe the core algorithms per layer and provide arguments why these algorithms fulfil the function of the respective layer.    The student can apply the core algorithms to toy examples.    The student can identify potential network security issues and choose suitable mitigation measures.    The student can exemplify the concepts of ethical hacking and responsible disclosure.",
+    "metadata": {
+      "course_id": "CSE1405",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Computer Networks",
+      "ects": 5,
+      "semester": 2,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14256"
+    }
+  },
+  {
+    "content": "Machine Learning: This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs); and reinforcement learning. The course will also discuss recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing. After completing this course, the student can: explain the basic concepts of machine learning, such as supervised and unsupervised learning, classification, regression, and clustering; apply standard machine learning algorithms to practical datasets; evaluate the performance of a machine learning model using appropriate metrics; identify the limitations and potential ethical implications of machine learning systems; implement machine learning algorithms using popular Python libraries.",
+    "metadata": {
+      "course_id": "CSE2510",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Machine Learning",
+      "ects": 5,
+      "semester": 3,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14260"
+    }
+  },
+  {
+    "content": "Operating Systems: An operating system is the core software of any computer system. It manages the hardware and provides a convenient and safe environment for running applications. This course covers the fundamental concepts of operating systems, including: process management (processes, threads, CPU scheduling, synchronization, and deadlock); memory management (main memory, virtual memory, paging, and segmentation); storage management (file systems, mass-storage structure, and I/O systems); and protection and security. After completing this course, the student can: describe the main responsibilities of an operating system; explain how an OS manages processes and threads; solve concurrency problems using synchronization primitives like mutexes and semaphores; explain the mechanisms used for memory management and virtual memory; describe how file systems are structured and managed on disk; write C programs that interact with the OS via system calls.",
+    "metadata": {
+      "course_id": "CSE2140",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Operating Systems",
+      "ects": 5,
+      "semester": 3,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14261"
+    }
+  },
+  {
+    "content": "Artificial Intelligence: Artificial Intelligence (AI) is the field of computer science aimed at creating intelligent agents, which are systems that can reason, learn, and act autonomously. This course covers the foundational principles of AI. Topics include: search algorithms (uninformed, informed, heuristic search, adversarial search in games); logical agents (propositional logic, first-order logic, inference); planning under certainty and uncertainty; and probabilistic reasoning (Bayesian networks, Hidden Markov Models). After completing this course, the student can: formulate a real-world problem as a state-space search problem; apply various search algorithms to find optimal or near-optimal solutions; design intelligent agents that can reason logically about their environment; represent uncertain knowledge using probabilistic models; implement basic AI algorithms to solve practical problems.",
+    "metadata": {
+      "course_id": "CSE2520",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Artificial Intelligence",
+      "ects": 5,
+      "semester": 3,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14262"
+    }
+  },
+  {
+    "content": "Concepts of Programming Languages: Programming languages are the primary tool of the software engineer. This course explores the fundamental concepts underlying the design and implementation of programming languages. Topics include: formal syntax and semantics; lexical and syntax analysis (parsing); naming, bindings, and scopes; data types and type systems; control structures; subprograms and parameter passing mechanisms; object-oriented programming concepts; and functional programming concepts. After completing this course, the student can: describe the different phases of compilation and interpretation; specify the syntax of a programming language using regular expressions and context-free grammars; explain the concepts of scope, lifetime, and binding; compare and contrast imperative, object-oriented, and functional programming paradigms; write basic programs in a functional language (e.g., Haskell).",
+    "metadata": {
+      "course_id": "CSE2120",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Concepts of Programming Languages",
+      "ects": 5,
+      "semester": 3,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14263"
+    }
+  },
+  {
+    "content": "Software Engineering Methods: Developing large-scale software systems requires more than just programming skills; it requires a disciplined engineering approach. This course introduces software engineering methods, principles, and practices. Topics include: software life cycle models (waterfall, iterative, agile); requirements engineering; software architecture and design patterns; software quality assurance; project management; and ethical considerations in software engineering. After completing this course, the student can: explain the advantages and disadvantages of different software development processes; elicit, analyze, and document software requirements; apply design patterns to solve common architectural problems; plan and track a software project using agile methodologies (e.g., Scrum); understand the importance of software quality and apply various testing strategies.",
+    "metadata": {
+      "course_id": "CSE2115",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Software Engineering Methods",
+      "ects": 5,
+      "semester": 4,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14264"
+    }
+  },
+  {
+    "content": "Information Security: As our reliance on computer systems grows, so does the need to secure them. This course provides a comprehensive introduction to information security. Topics include: basic cryptography (symmetric and asymmetric encryption, hash functions, digital signatures); network security (firewalls, IDS, TLS, IPsec); web security (SQL injection, XSS, CSRF); system security (access control, malware, buffer overflows); and security management (risk assessment, security policies). After completing this course, the student can: identify common security vulnerabilities in software and network systems; explain the principles of applied cryptography; design and implement basic security mechanisms; analyze the security posture of a given system; understand the ethical and legal implications of information security.",
+    "metadata": {
+      "course_id": "CSE2530",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Information Security",
+      "ects": 5,
+      "semester": 4,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14265"
+    }
+  },
+  {
+    "content": "Automata, Computability and Complexity: What can and cannot be computed by a machine? And if a problem can be computed, how much time and memory will it take? This course explores the theoretical foundations of computer science. Topics include: finite automata and regular languages; pushdown automata and context-free languages; Turing machines and the Church-Turing thesis; decidability and the halting problem; computational complexity classes (P, NP, NP-completeness); and reductions. After completing this course, the student can: design finite automata and regular expressions for regular languages; design pushdown automata and context-free grammars; explain the concept of Turing-computability; prove that certain problems are undecidable; apply reductions to prove the NP-completeness of computational problems.",
+    "metadata": {
+      "course_id": "CSE2225",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Automata, Computability and Complexity",
+      "ects": 5,
+      "semester": 4,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14266"
+    }
+  },
+  {
+    "content": "Computer Graphics: This course introduces the principles of computer graphics, focusing on the generation of 2D and 3D images. Topics include: the graphics pipeline; geometric transformations (translation, rotation, scaling); viewing and projections; object representation (meshes, curves, surfaces); color models; illumination and shading (Phong model); rasterization; ray tracing; and texture mapping. After completing this course, the student can: describe the mathematical foundations of computer graphics; apply 3D transformations to manipulate objects in a virtual scene; explain the differences between rasterization and ray tracing techniques; implement basic shading models to render realistic surfaces; use a standard graphics API (e.g., OpenGL or WebGL) to create interactive 3D applications.",
+    "metadata": {
+      "course_id": "CSE2215",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Computer Graphics",
+      "ects": 5,
+      "semester": 4,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14267"
+    }
+  },
+  {
+    "content": "Human-Computer Interaction: Software is only useful if humans can effectively interact with it. This course covers the design, prototyping, and evaluation of user interfaces. Topics include: human perception and cognition; user-centered design methodologies; task analysis; interaction styles; UI design principles and heuristics; prototyping techniques (paper, wireframes, interactive); and usability evaluation methods (heuristic evaluation, user testing). After completing this course, the student can: analyze user needs and contexts of use; design intuitive and accessible user interfaces; create prototypes of varying fidelity; conduct usability evaluations to identify interface flaws; iterate on a design based on user feedback.",
+    "metadata": {
+      "course_id": "CSE2535",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Human-Computer Interaction",
+      "ects": 5,
+      "semester": 5,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14268"
+    }
+  },
+  {
+    "content": "Big Data Processing: In the modern era, the volume of data generated often exceeds the processing capabilities of a single machine. This course introduces frameworks and paradigms for distributed data processing. Topics include: the challenges of big data; the MapReduce programming model; distributed file systems (HDFS); the Apache Spark framework (RDDs, DataFrames, Spark SQL); stream processing; and NoSQL databases for large-scale data storage. After completing this course, the student can: explain the principles of distributed data processing; write MapReduce programs to process large datasets; develop data processing pipelines using Apache Spark; analyze streaming data in real-time; select appropriate data storage and processing technologies for different big data scenarios.",
+    "metadata": {
+      "course_id": "CSE2540",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Big Data Processing",
+      "ects": 5,
+      "semester": 5,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14269"
+    }
+  },
+  {
+    "content": "Data Mining: In the information age, extracting meaningful patterns from vast amounts of data is a critical skill. This course introduces the fundamental concepts and algorithms of data mining and knowledge discovery. Topics include: data preprocessing and cleaning; frequent pattern mining and association rules (Apriori, FP-growth); advanced clustering techniques (hierarchical, density-based); anomaly and outlier detection; and recommendation systems. After completing this course, the student can: explain the knowledge discovery process; preprocess raw data to make it suitable for mining; apply association rule mining to find frequent patterns in transactional databases; design and evaluate recommendation systems; use data mining software and libraries to analyze real-world datasets.",
+    "metadata": {
+      "course_id": "CSE2525",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Data Mining",
+      "ects": 5,
+      "semester": 4,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14270"
+    }
+  },
+  {
+    "content": "Compiler Construction: This course demystifies how a high-level programming language is translated into machine code. It covers the theoretical and practical aspects of compiler design. Topics include: lexical analysis (scanning) and regular expressions; syntax analysis (parsing) using top-down and bottom-up techniques; semantic analysis and type checking; intermediate representation (IR) generation; code optimization techniques; and target code generation. After completing this course, the student can: describe the architecture of a modern compiler; use parser generators to construct a parser for a given context-free grammar; implement semantic rules and symbol tables; apply basic code optimization techniques (e.g., constant folding, dead code elimination); build a functional compiler for a simple programming language.",
+    "metadata": {
+      "course_id": "CSE2230",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Compiler Construction",
+      "ects": 5,
+      "semester": 5,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14271"
+    }
+  },
+  {
+    "content": "Embedded Systems: Embedded systems are ubiquitous, found in everything from household appliances to automotive control systems. This course explores the hardware and software design of such systems. Topics include: microcontroller architectures and instruction sets; memory mapping and peripheral interfacing (GPIO, ADCs, timers); interrupt handling and real-time constraints; serial communication protocols (I2C, SPI, UART); and Real-Time Operating Systems (RTOS). After completing this course, the student can: program microcontrollers using C and assembly language; interface hardware components with a microcontroller; design software that meets strict real-time deadlines; explain the role of an RTOS and use its scheduling mechanisms; develop a complete embedded system prototype.",
+    "metadata": {
+      "course_id": "CSE2155",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Embedded Systems",
+      "ects": 5,
+      "semester": 4,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14272"
+    }
+  },
+  {
+    "content": "Computer Vision: Computer Vision enables machines to interpret and understand the visual world. This advanced course bridges traditional image processing and modern deep learning approaches. Topics include: image filtering and morphological operations; feature detection and description (SIFT, SURF, ORB); camera calibration and epipolar geometry; object detection and image segmentation; and state-of-the-art Convolutional Neural Networks (CNNs) for visual tasks. After completing this course, the student can: implement basic image processing algorithms; extract robust features from images for matching and tracking; explain the geometry of multiple views and stereo vision; train and fine-tune CNNs for image classification and object detection; apply computer vision techniques to solve practical problems.",
+    "metadata": {
+      "course_id": "CSE2545",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Computer Vision",
+      "ects": 5,
+      "semester": 5,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14273"
+    }
+  },
+  {
+    "content": "Natural Language Processing: Natural Language Processing (NLP) sits at the intersection of computer science, artificial intelligence, and linguistics. This course explores how computers process and analyze large amounts of natural language data. Topics include: text normalization and tokenization; N-gram language models; word embeddings (Word2Vec, GloVe); Recurrent Neural Networks (RNNs) and LSTMs for sequence modeling; attention mechanisms and Transformers; and applications like machine translation and sentiment analysis. After completing this course, the student can: preprocess raw text data for machine learning models; train and evaluate language models; explain the architecture of Transformer networks (e.g., BERT, GPT); implement NLP pipelines for classification and generation tasks.",
+    "metadata": {
+      "course_id": "CSE2550",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Natural Language Processing",
+      "ects": 5,
+      "semester": 6,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14274"
+    }
+  },
+  {
+    "content": "Software Architecture: A robust software architecture is the foundation of any successful large-scale software system. This course focuses on the high-level structures of software systems and the discipline of creating such structures. Topics include: architectural styles and patterns (Layered, Client-Server, Microservices, Event-Driven); architectural tactics for achieving quality attributes (performance, security, availability); documentation of software architectures using UML and architectural views (e.g., 4+1 view model); and evaluating software architectures. After completing this course, the student can: identify the architectural style of an existing system; design an architecture that satisfies specific functional and non-functional requirements; document architectural decisions clearly and professionally; evaluate the trade-offs of different architectural choices.",
+    "metadata": {
+      "course_id": "CSE2125",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Software Architecture",
+      "ects": 5,
+      "semester": 5,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14275"
+    }
+  },
+  {
+    "content": "Algorithm Design: This advanced course builds upon basic data structures and algorithms, focusing on sophisticated techniques for designing efficient algorithms. Topics include: advanced divide-and-conquer strategies; dynamic programming (memoization and tabulation); greedy algorithms and matroid theory; network flow algorithms (Ford-Fulkerson, maximum bipartite matching); string matching algorithms; and randomized algorithms. After completing this course, the student can: identify problems that can be solved using dynamic programming or greedy approaches; formulate real-world problems as network flow or graph problems; rigorously prove the correctness and analyze the complexity of complex algorithms; implement advanced algorithmic techniques to solve computationally hard problems efficiently.",
+    "metadata": {
+      "course_id": "CSE2310",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Algorithm Design",
+      "ects": 5,
+      "semester": 5,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14276"
+    }
+  },
+  {
+    "content": "Quantum Computing: Quantum computing represents a paradigm shift in computation, promising exponential speedups for certain classes of problems. This introductory course covers the foundations of quantum information and quantum algorithms. Topics include: qubits, superposition, and entanglement; quantum gates and quantum circuits; the mathematical formalism of quantum mechanics (linear algebra, Hilbert spaces); key quantum algorithms (Deutsch-Jozsa, Grover's search, Shor's factoring algorithm); and quantum error correction. After completing this course, the student can: perform calculations involving quantum states and gates; design simple quantum circuits; explain how quantum algorithms achieve speedups over classical counterparts; understand the physical and theoretical limitations of current quantum computers.",
+    "metadata": {
+      "course_id": "CSE2240",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Quantum Computing",
+      "ects": 5,
+      "semester": 6,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14277"
+    }
+  },
+  {
+    "content": "Robotics: This course provides an introduction to the mechanics, control, and programming of robotic systems, with a focus on mobile robots and robotic manipulators. Topics include: rigid body transformations and kinematics (forward and inverse); robot dynamics and control; sensor processing (lidar, vision, odometry); probabilistic robotics (Kalman filters, particle filters); Simultaneous Localization and Mapping (SLAM); path planning and obstacle avoidance; and the Robot Operating System (ROS). After completing this course, the student can: derive kinematic models for robotic arms and mobile bases; implement state estimation algorithms to track a robot's position; design motion planners to navigate complex environments; use ROS to simulate and control robotic systems.",
+    "metadata": {
+      "course_id": "CSE2560",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Robotics",
+      "ects": 5,
+      "semester": 6,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14278"
+    }
+  },
+  {
+    "content": "Blockchain Technologies: Blockchain technology and distributed ledgers have applications far beyond cryptocurrencies. This course covers the technical underpinnings of decentralized systems. Topics include: cryptographic hash functions and digital signatures; peer-to-peer networks; consensus algorithms (Proof of Work, Proof of Stake, Byzantine Fault Tolerance); the architecture of Bitcoin and Ethereum; smart contract development (Solidity); decentralized applications (DApps); and privacy and scaling solutions (zero-knowledge proofs, layer-2 networks). After completing this course, the student can: explain the mechanics of blockchain consensus and state replication; identify scenarios where blockchain provides a tangible benefit over centralized databases; write, test, and deploy secure smart contracts; build a simple DApp interacting with a blockchain network.",
+    "metadata": {
+      "course_id": "CSE2570",
+      "university": "TUDelft",
+      "country": "NL",
+      "title": "Blockchain Technologies",
+      "ects": 5,
+      "semester": 6,
+      "syllabus_url": "https://studiegids.tudelft.nl/courses/study-guide/educations/14279"
+    }
+  }
+]

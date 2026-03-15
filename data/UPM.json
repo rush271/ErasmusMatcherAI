@@ -1,0 +1,374 @@
+[
+  {
+    "content": "Logic: 1. Introducción 1.1. El concepto de Razonamiento y los factores que lo constituyen: internos y externos 2. Lógica Proposicional 2.1. Lenguajes proposicionales: introducción y sintaxis 2.2. Formalización de oraciones y argumentos en Lógica Proposicional 2.3. Semántica formal: funciones de verdad, tautologicidad, consecuencia lógica 2.4. Razonamiento semántico: definición de modelos y contramodelos; estudio de la corrección de un argumento 2.5. Introducción de un Cálculo Deductivo en Lógica Proposicional 3. Lógica de Primer Orden 3.1. Lenguajes de Primer Orden: introducción y sintaxis 3.2. Formalización de oraciones y argumentos en Lógica de Primer Orden 3.3. Semántica formal: estructuras, validez formal, consecuencia lógica 3.4. Razonamiento semántico: definición de modelos y contramodelos; estudio de la corrección de un argumento 3.5. Transformación de fórmulas en Forma Clausular 3.6. Cálculo de Resolución con Unificación; Resolución SLD; introducción a la Programación Lógica",
+    "metadata": {
+      "course_id": "105000002",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Logic",
+      "ects": 6,
+      "semester": 1,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/1S/GA_10II_105000002_1S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Programación I: 5.1. Descripción de la asignatura Este curso es una introducción a la programación desde cero. El objetivo es comprender los mecanismos básicos de programación y ser capaz de resolver algunos tipos de problemas mediante la programación de soluciones a los mismos. Se hace especial enfásis en soluciones que sean: 1) correctas (resuelvan el problema), 2) eficientes (lo resuelvan con el menor uso de recursos posible) y 3) 5.2. Temario de la asignatura 1. Introducción a la Programación. 2. Elementos básicos de Java 3. Problemas de Solución Directa. Funciones. 4. Problemas de Casos. Selección. 5. Problemas de Recorrido. Recursión e Iteración. 6. Colecciones que sigan buenas prácticas de programación. El lenguaje de programación que se usa en la asignatura es un subconjunto de Java. Las clases se dividen en clases teóricas con ejercicios escritos y laboratorios.",
+    "metadata": {
+      "course_id": "105000013",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Programación I",
+      "ects": 6,
+      "semester": 1,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/1S/GA_10II_105000013_1S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Algebra Lineal: 4.1. Descripción de la asignatura Esta asignatura forma parte de los fundamentos matemáticos que todo ingeniero debe poseer. Trata del estudio de los espacios vectoriales y la relación de dependencia lineal que los define. Se estudian y emplean para ello las matrices y los sistemas de ecuaciones lineales. 4.2. Temario de la asignatura 1. Sistemas de ecuaciones lineales y espacios vectoriales. 1.1. Cálculo matricial. Operaciones elementales de fila. Forma reducida. Rango. 1.2. Resolución de sistemas por el método de Gauss y Gauss-Jordan. 1.3. Espacios vectoriales y subespacios 1.4. Dependencia lineal. Bases. Dimensión. Coordenadas. 1.5. Ecuaciones paramétricas e implícitas de un subespacio. 1.6. Suma, intersección y suma directa de subespacios. 1.7. Aplicación a la teoría de códigos lineales. 2. Aplicaciones lineales. 2.1. Aplicaciones lineales. Núcleo e imagen. Fórmula de las dimensiones. 2.2. Tipos de homomorfismos. 2.3. Cambio de base asociado a un homomorfismo. 3. Diagonalización. 3.1. Valores y vectores propios. 3.2. Subespacios propios. Caracterización de las matrices diagonalizables. 4. Espacio vectorial euclídeo. 4.1. Producto escalar. Distancia y ángulo entre vectores. 4.2. Bases ortogonales. Procedimiento de ortonormalización de Gram-Schmidt. 4.3. Complemento ortogonal. 4.4. Proyección ortogonal. Distancia entre vector y subespacio. 4.5. Diagonalización ortogonal. 5. Aplicaciones ortogonales. 5.1. Aplicaciones ortogonales en el plano. 5.2. Aplicaciones ortogonales en el espacio. 6. Variedades afines. 6.1. Variedades afines del plano y el espacio. Aplicaciones afines y movimientos.",
+    "metadata": {
+      "course_id": "105000006",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Algebra Lineal",
+      "ects": 6,
+      "semester": 1,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/1S/GA_10II_105000006_1S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Calculo: 4.1. Descripción de la asignatura La asignatura se centra en el estudio de sucesiones de números reales, series numéricas, series de funciones y cálculo relativo a funciones reales de una o varias variables reales. El primer bloque del temario trata sobre sucesiones de números reales, series numéricas y series de funciones. En el segundo bloque se estudia el cálculo diferencial de funciones reales de una o varias variables reales. En el tercer bloque se estudia la integral definida, el cálculo de primitivas y la integral doble sobre recintos generales. En cada uno de los bloques se estudian aplicaciones del temario. 4.2. Temario de la asignatura 1. Sucesiones de números reales, series numéricas y series de funciones (Sequences of real numbers, numerical series, power series). 2. Cálculo diferencial de funciones de una o varias variables (Differential calculus of real-valued functions of one or several variables). 3. Cálculo Integral de funciones de una y de varias variables (Integral calculus of functions of one or several variables).",
+    "metadata": {
+      "course_id": "105000005",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Calculo",
+      "ects": 6,
+      "semester": 2,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/2S/GA_10II_105000005_2S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Human-Computer Interaction: 4.1. Descripción de la asignatura En esta asignatura se tratan los aspectos fundamentales del diseño de sistemas interactivos siguiendo un proceso de diseño centrado en el usuario: Conocer y analizar a los tipos de usuarios, sus tareas y el entorno en el que usarán el sistema Diseñar la interacción Construir prototipos de baja y alta fidelidad Evaluar la usabilidad y accesibilidad de los prototipos La asignatura se basa en el trabajo continuo a lo largo del curso, mediante la realización de un proyecto que consta de varias entregas. Para poder seguir la asignatura adecuadamente es preciso, por tanto, desarrollar el trabajo del proyecto durante todo el semestre. 4.2. Temario de la asignatura 1. Introducción a la Interacción Persona-Ordenador 1.1. Usabilidad e Interacción Persona-Ordenador 1.2. Atributos de usabilidad 2. Factores humanos 2.1. Ergonomía, modelos mentales y procesamiento de la información 2.2. Diversidad funcional 3. Estilos y dispositivos de interacción 4. Diseño centrado en el usuario 5. Contexto de uso 5.1. Análisis del contexto de uso (usuarios, tareas, entorno) 5.2. Técnicas para la especificación del contexto de uso 6. Diseño del concepto del producto 7. Diseño de la interacción y accesibilidad 7.1. Prototipado de baja fidelidad 7.2. Principios y heurísticas de diseño de la interacción 7.3. Diseño de la navegación 7.4. Diseño gráfico de la interfaz de usuario 7.5. Pautas de accesibilidad 8. Evaluación de la usabilidad 8.1. Evaluación de prototipos de baja fidelidad 8.2. Evaluación de usabilidad 8.3. Evaluación de accesibilidad",
+    "metadata": {
+      "course_id": "105000159",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Human-Computer Interaction",
+      "ects": 6,
+      "semester": 2,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/2S/GA_10II_105000159_2S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Programación II: 5.1. Descripción de la asignatura Este curso es una introducción a la programación orientada a objetos (POO). Su objetivo principal es presentar a los estudiantes los principios de la resolución de problemas en el paradigma POO y el estudio de los modelos de datos básicos en que se basa. El curso se vertebra alrededor del concepto de Abstracción de Datos. El lenguaje que se utilizará para transmitir los contenidos es Java. De esta manera, el/la alumno/a avanza y profundiza en el conocimiento de un lenguaje de propósito general, de amplia utilización en el mundo laboral, actualizado a las tecnologías actuales y que será utilizado ampliamente a lo largo de sus estudios de grado 5.2. Temario de la asignatura 1. Introducción a la programación orientada a objetos (POO) 2. Modelo de objetos: abstracciones de datos, clases y objetos 3. Listas 4. Listas enlazadas 5. Herencia y Polimorfismo 6. Pilas y Colas 7. Excepciones.",
+    "metadata": {
+      "course_id": "105000015",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Programación II",
+      "ects": 6,
+      "semester": 2,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/2S/GA_10II_105000015_2S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Building up communications skills: 5.1. Brief description of the subject The main objective of this course is to prepare students for a B2 level in the TOIEC exam, with emphasis on listening and reading skills. Students seeking to obtain the B2 level are strongly encouraged to register in this course, as this is the required minimum level to enroll in the compulsory course English for Professional and Academic Communication. All students at Universidad Politécnica de Madrid have the chance to take the TOEIC exam (listening and reading skills) under the SAI (Sistema de Acreditación Interna) scheme, to obtain a certificate of this level, should they need it. The course book will be announced to the students at the beginning of the course. 5.2. Syllabus 1. Module 1. introduction to the TOEIC exam 2. Module 2. Listening comprehension strategies 3. Module 3: Reading comprehension strategies 4. Module 4: TOEIC Practice and Test Strategies",
+    "metadata": {
+      "course_id": "105000046",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Building up communications skills",
+      "ects": 6,
+      "semester": 2,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2025-26/1S/GA_10II_105000046_1S_2025-26.pdf"
+    }
+  },
+  {
+    "content": "Programming Scalable Systems: 5.1. Descripción de la asignatura The development of new applications with a strong presence on the Internet, such as social network applications, present great challenges: Design and programming of back-ends (services) that support the popularization of the application. Design and programming of front-ends (mobile applications and web applications) with good user experience, elegant interfaces, and efficient access to the back-end. This course focuses on the design and programming the back-end of these types of applications using the Elixir functional programming language and the Erlang/OTP ecosystem. The fundamental requirements behind these services are Availability (they cannot stop answering requests). Reliability (must be fault tolerant). Scalability (they must be able to serve huge numbers of simultaneous requests). Maintainability (they must be easily adaptable to new requirements). Accessibility (they must define well-structured APIs to serve the front-end). The course delves into the Erlang/OTP ecosystem and the Elixir programming language. Elixir leverages Erlang's virtual machine (BEAM), well known for its ability to run low-latency, distributed and fault-tolerant systems, todevelop back-ends with the aforementioned features (available, reliable and scalable). Elixir is a modern functional programming language designed for productivity, with well documented libraries and frameworks and with strong metaprogramming capabilities (maintainable and accesible). Some examples of applications and systems where these languages have been used are: WhatsApp, Discord, Cabify, bet365, Nintendo Switch multi-user online gaming or RabbitMQ. 5.2. Temario de la asignatura 1. Introduction to Elixir 2. Functional Programming 3. Concurrency in Elixir 4. Distribution in Elixir 5. Elixir Applications and OTP (Open Telecom Plantform) 6. Libraries to Scale 7. Project",
+    "metadata": {
+      "course_id": "105000443",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Programming Scalable Systems",
+      "ects": 3,
+      "semester": 8,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/2S/GA_10II_105000443_2S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Semantic Web, Linked Data And Knowledge Graphs: 5.1. Descripción de la asignatura El objetivo de esta asignatura es proporcionar la base teórica y práctica sobre los fundamentos metodológicos y tecnológicos implicados en la generación y publicación de vocabularios y datos en la Web de datos enlazados, así como en forma de grafos de conocimientos. En concreto, se presentarán: los conceptos de Web Semántica, Web de datos enlazados y grafos de conocimientos, así como de datos abiertos, lengripción de datos en la Web, metodología y tecnologías de soporte a la generación y publicación de datos enlazados, ontologías y vocabularios utilizados, fuentes de datos representativas, como DBpedia, Geonames, Wikidata, etc., y aplicaciones que hacen uso de datos enlazados y de grafos de conocimientos. 5.2. Temario de la asignatura 1. Introducción a la Web Semántica, Web de Linked Data y Grafos de Conocimientos 1.1. Motivación y fundamentos 1.2. Linked Data y Grafos de Conocimientos en organismos públicos y privados 2. Lenguajes, protocolos y tecnologías asociadas 2.1. Redes semánticas, grafos y taxonomías 2.2. RDF(S) 2.3. SPARQL 2.4. APIs y librerías para RDFS(S) 2.5. Grafos de conocimientos relevantes 3. Generación de grafos de conocimientos 3.1. Generación de RDF a partir de fuentes de datos heterogéneas 3.2. Enlazado de datos 3.3. Publicación de datos en Linked Data 4. Explotación de grafos de conocimientos 4.1. Explotación de grafos de conocimientos 4.2. Ontologías relevantes en la Web de datos 4.3. Calidad en grafos de conocimientos",
+    "metadata": {
+      "course_id": "105000057",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Semantic Web, Linked Data And Knowledge Graphs",
+      "ects": 3,
+      "semester": 7,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/1S/GA_10II_105000057_1S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "English for Professional and Academic Communication: 5.1. Brief description of the subject The main objective of this course is to make students aware of the importance of effective communication skills in academic or professional settings, with a strong focus on contemporary issues related to computer engineering, and to help them develop those skills to communicate effectively in both settings. The course will be organized around science and technology-related topics, and 2 assignments (written Research Proposal -RP- and Oral Presentation -OP) that they must complete to pass the course. 5.2. Syllabus 1. What is Professional and Academic Communication? - Introduction to the course 1.1. 21st Century Skills in the context of EPAC 1.2. Description of assignments: Research Proposals and Oral Presentations 2. Formulating a research idea 2.1. Research proposal structure: understanding the parts of a reseach document 2.2. Investigating current practices 2.3. Covering research gaps 3. Academic writing: plagiarism, paraphrasing, summarising, referencing and quoting 4. Presenting a research idea 5. Student's Oral Presentations 6. Student's Research Proposals",
+    "metadata": {
+      "course_id": "105000011",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "English for Professional and Academic Communication",
+      "ects": 6,
+      "semester": 7,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/1S/GA_10II_105000011_1S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Español Profesional Y Academico: 5.1. Descripción de la asignatura Esta asignatura tiene como objetivo hacer que los alumnos sean capaces de explicar tanto oralmente como por escrito, con claridad y precisión, temas relacionados con la ingeniería informática y el desarrollo de la actividad del ingeniero informático en contextos tanto profesionales como académicos, siguiendo las convenciones existentes en ambos contextos. 5.2. Temario de la asignatura 1. Módulo profesional (I) 1.1. El correo electrónico 1.2. La carta de motivación 1.3. La argumentación 2. Módulo profesional (II) 2.1. Elevator pitch y videocurrículum 2.2. El CV 2.3. La entrevista de trabajo 3. Módulo académico 3.1. Presentaciones 3.2. Estrategias de divulgación científica 3.3. El blog científico",
+    "metadata": {
+      "course_id": "105000045",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Español Profesional Y Academico",
+      "ects": 3,
+      "semester": 6,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/2S/GA_10II_105000045_2S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Bases de Datos: 5.1. Descripción de la asignatura El objetivo principal es proporcionar al alumno los conceptos fundamentales de los sistemas de bases de datos relacionales, el diseño de modelos de datos, la programación en SQL y la administración básica de un SGBD. 5.2. Temario de la asignatura 1. Introducción a los sistemas de bases de datos. 2. El modelo Entidad-Relación. 3. El modelo Relacional. 4. Diseño de bases de datos y normalización. 5. Lenguaje de consulta estructurado (SQL): definición de datos, manipulación de datos y consultas complejas. 6. Transacciones y control de concurrencia. 7. Introducción a bases de datos NoSQL.",
+    "metadata": {
+      "course_id": "105000021",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Bases de Datos",
+      "ects": 6,
+      "semester": 3,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/1S/GA_10II_105000021_1S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Sistemas Operativos: 5.1. Descripción de la asignatura Esta asignatura aborda los conceptos fundamentales que subyacen en el diseño y la implementación de los sistemas operativos modernos. Se enfatiza la gestión de procesos, la memoria principal, los sistemas de ficheros y la entrada/salida. 5.2. Temario de la asignatura 1. Introducción a los Sistemas Operativos. 2. Gestión de procesos e hilos (Threads). 3. Planificación de la CPU. 4. Concurrencia y sincronización de procesos (Semáforos, Monitores). 5. Gestión de la memoria: paginación y segmentación. 6. Memoria virtual. 7. Sistemas de ficheros y almacenamiento. 8. Gestión de dispositivos de Entrada/Salida.",
+    "metadata": {
+      "course_id": "105000025",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Sistemas Operativos",
+      "ects": 6,
+      "semester": 4,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/2S/GA_10II_105000025_2S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Redes de Computadores: 5.1. Descripción de la asignatura La asignatura ofrece una introducción a las redes de computadores y a Internet. Se basa en la arquitectura de protocolos TCP/IP, analizando las diferentes capas desde el nivel de aplicación hasta el nivel de enlace. 5.2. Temario de la asignatura 1. Introducción a las redes e Internet. 2. La capa de Aplicación: HTTP, DNS, SMTP. 3. La capa de Transporte: protocolos UDP y TCP, control de congestión y flujo. 4. La capa de Red: el protocolo IPv4 e IPv6, algoritmos de enrutamiento (OSPF, BGP). 5. La capa de Enlace de datos y redes de área local: Ethernet, conmutadores, redes inalámbricas (Wi-Fi).",
+    "metadata": {
+      "course_id": "105000030",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Redes de Computadores",
+      "ects": 6,
+      "semester": 5,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/1S/GA_10II_105000030_1S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Ingeniería de Software: 5.1. Descripción de la asignatura Introducción a los principios, métodos y herramientas para el desarrollo de software de calidad. El curso cubre el ciclo de vida del software, haciendo hincapié en el análisis de requisitos, el diseño arquitectónico, las metodologías ágiles y las pruebas. 5.2. Temario de la asignatura 1. Procesos de desarrollo de software y metodologías ágiles (Scrum, Kanban). 2. Ingeniería de requisitos: elicitación, análisis y especificación. 3. Modelado del sistema con UML. 4. Diseño de software y patrones de arquitectura. 5. Verificación y validación: pruebas unitarias, de integración y de sistema. 6. Gestión de la configuración y control de versiones (Git).",
+    "metadata": {
+      "course_id": "105000035",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Ingeniería de Software",
+      "ects": 6,
+      "semester": 5,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/1S/GA_10II_105000035_1S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Inteligencia Artificial: 5.1. Descripción de la asignatura El curso proporciona una base sólida en los conceptos y técnicas fundamentales de la Inteligencia Artificial. Se abordan temas como la resolución de problemas mediante búsqueda, la representación del conocimiento, el razonamiento lógico y una introducción al aprendizaje automático. 5.2. Temario de la asignatura 1. Introducción a la Inteligencia Artificial y agentes inteligentes. 2. Resolución de problemas y algoritmos de búsqueda (búsqueda no informada e informada, A*). 3. Problemas de satisfacción de restricciones (CSP). 4. Representación del conocimiento y razonamiento lógico. 5. Incertidumbre y redes bayesianas. 6. Introducción al Aprendizaje Automático (Machine Learning): aprendizaje supervisado y no supervisado.",
+    "metadata": {
+      "course_id": "105000041",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Inteligencia Artificial",
+      "ects": 6,
+      "semester": 6,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/2S/GA_10II_105000041_2S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Seguridad Informática: 5.1. Descripción de la asignatura El objetivo de esta asignatura es introducir los conceptos fundamentales de la seguridad de la información y la criptografía. Se estudian las vulnerabilidades de los sistemas informáticos, las amenazas, y los mecanismos de defensa y protección tanto a nivel de red como de sistema operativo. 5.2. Temario de la asignatura 1. Introducción a la seguridad de la información. 2. Criptografía simétrica y asimétrica. 3. Funciones hash y firmas digitales. 4. Seguridad en redes: cortafuegos (firewalls), sistemas de detección de intrusos (IDS), protocolos seguros (IPSec, SSL/TLS). 5. Seguridad en sistemas operativos y control de acceso. 6. Software malicioso (malware) y análisis de vulnerabilidades. 7. Aspectos legales y éticos de la ciberseguridad.",
+    "metadata": {
+      "course_id": "105000050",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Seguridad Informática",
+      "ects": 6,
+      "semester": 7,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/1S/GA_10II_105000050_1S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Computación en la Nube: 5.1. Descripción de la asignatura Esta asignatura aborda los paradigmas y tecnologías de la computación en la nube (Cloud Computing). Los estudiantes aprenderán a diseñar, desplegar y administrar aplicaciones escalables utilizando plataformas de nube pública y contenedores. 5.2. Temario de la asignatura 1. Introducción al Cloud Computing: IaaS, PaaS, SaaS. 2. Virtualización de servidores y almacenamiento. 3. Contenedores y orquestación (Docker, Kubernetes). 4. Arquitecturas basadas en microservicios. 5. Computación sin servidor (Serverless). 6. Despliegue de aplicaciones en plataformas públicas (AWS, Google Cloud, Azure). 7. Alta disponibilidad y tolerancia a fallos en la nube.",
+    "metadata": {
+      "course_id": "105000055",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Computación en la Nube",
+      "ects": 6,
+      "semester": 8,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/2S/GA_10II_105000055_2S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Arquitectura de Computadores: 5.1. Descripción de la asignatura La asignatura profundiza en la estructura y el funcionamiento interno de los computadores modernos, centrándose en el diseño del procesador, la jerarquía de memoria y la evaluación del rendimiento. 5.2. Temario de la asignatura 1. Evaluación del rendimiento de los computadores. 2. Repertorio de instrucciones y lenguaje ensamblador. 3. Unidad de proceso: ruta de datos y unidad de control. 4. Procesadores segmentados (Pipelining) y riesgos (hazards). 5. Jerarquía de memoria: memoria caché y memoria virtual. 6. Introducción a las arquitecturas multiprocesador y multicore.",
+    "metadata": {
+      "course_id": "105000020",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Arquitectura de Computadores",
+      "ects": 6,
+      "semester": 3,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/1S/GA_10II_105000020_1S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Aprendizaje Automático: 5.1. Descripción de la asignatura Este curso proporciona una inmersión profunda en los algoritmos de Machine Learning. Se centra en cómo construir modelos predictivos a partir de datos, evaluarlos y desplegarlos, cubriendo técnicas supervisadas, no supervisadas y una introducción al aprendizaje profundo. 5.2. Temario de la asignatura 1. Introducción al Machine Learning y preprocesamiento de datos. 2. Regresión lineal y regresión logística. 3. Máquinas de Vectores de Soporte (SVM) y árboles de decisión. 4. Métodos de ensamble: Random Forest y Gradient Boosting. 5. Aprendizaje no supervisado: clustering (K-Means, DBSCAN) y reducción de dimensionalidad (PCA). 6. Introducción a las Redes Neuronales Artificiales y Deep Learning. 7. Evaluación de modelos y validación cruzada.",
+    "metadata": {
+      "course_id": "105000060",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Aprendizaje Automático",
+      "ects": 6,
+      "semester": 7,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/1S/GA_10II_105000060_1S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Desarrollo de Aplicaciones Móviles: 5.1. Descripción de la asignatura La asignatura introduce al estudiante en el diseño y desarrollo de aplicaciones nativas e híbridas para dispositivos móviles. Se enfatiza el uso de buenas prácticas de ingeniería de software, el consumo de APIs REST y el diseño de interfaces de usuario adaptables. 5.2. Temario de la asignatura 1. Ecosistemas móviles y arquitecturas de aplicaciones. 2. Desarrollo nativo en Android (Kotlin) / iOS (Swift). 3. Interfaces de usuario y experiencia de usuario (UX) en móviles. 4. Almacenamiento local de datos (SQLite, Room). 5. Consumo de servicios web y APIs REST. 6. Trabajo con sensores, geolocalización y notificaciones push. 7. Desarrollo multiplataforma (ej. Flutter o React Native).",
+    "metadata": {
+      "course_id": "105000065",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Desarrollo de Aplicaciones Móviles",
+      "ects": 6,
+      "semester": 8,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/2S/GA_10II_105000065_2S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Estructuras de Datos: 5.1. Descripción de la asignatura El objetivo principal es dotar al alumno de los conocimientos necesarios para el diseño, implementación y uso de estructuras de datos eficientes. Se enfatiza el análisis de la complejidad algorítmica y la elección de la estructura adecuada para cada problema. 5.2. Temario de la asignatura 1. Análisis de algoritmos: notación asintótica (O, Omega, Theta). 2. Estructuras lineales: pilas, colas y listas avanzadas. 3. Árboles: árboles binarios, árboles de búsqueda (BST), árboles AVL. 4. Colas de prioridad y Montículos (Heaps). 5. Grafos: representación, recorridos (BFS, DFS) y algoritmos básicos. 6. Tablas Hash: funciones de dispersión y resolución de colisiones.",
+    "metadata": {
+      "course_id": "105000014",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Estructuras de Datos",
+      "ects": 6,
+      "semester": 3,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/1S/GA_10II_105000014_1S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Sistemas Distribuidos: 5.1. Descripción de la asignatura Introducción a los conceptos, arquitectura y diseño de sistemas distribuidos. Se abordan los retos de la concurrencia, la comunicación en red, la tolerancia a fallos y la sincronización entre múltiples nodos. 5.2. Temario de la asignatura 1. Modelos de sistemas distribuidos y arquitecturas cliente-servidor. 2. Comunicación entre procesos: RPC, RMI y paso de mensajes. 3. Sincronización: relojes lógicos, exclusión mutua distribuida y algoritmos de elección. 4. Replicación y consistencia de datos. 5. Tolerancia a fallos: detección de fallos y algoritmos de consenso (Paxos, Raft). 6. Sistemas de archivos distribuidos y bases de datos NoSQL distribuidas.",
+    "metadata": {
+      "course_id": "105000033",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Sistemas Distribuidos",
+      "ects": 6,
+      "semester": 6,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/2S/GA_10II_105000033_2S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Gráficos por Computador: 5.1. Descripción de la asignatura La asignatura proporciona los fundamentos teóricos y prácticos para la generación de imágenes por ordenador. Se introducen las matemáticas de los gráficos 3D, el pipeline gráfico y la programación con librerías estándar como OpenGL o WebGL. 5.2. Temario de la asignatura 1. Introducción a los gráficos 2D y 3D. 2. Transformaciones geométricas: traslación, rotación, escalado y proyecciones. 3. Modelado geométrico: mallas poligonales y curvas. 4. El pipeline gráfico y la arquitectura de la GPU. 5. Iluminación y sombreado: modelos locales (Phong) y texturizado. 6. Algoritmos de visibilidad y recorte (clipping). 7. Introducción a la animación por ordenador.",
+    "metadata": {
+      "course_id": "105000037",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Gráficos por Computador",
+      "ects": 6,
+      "semester": 5,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/1S/GA_10II_105000037_1S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Procesamiento de Lenguaje Natural: 5.1. Descripción de la asignatura Este curso explora las técnicas computacionales para el análisis, comprensión y generación del lenguaje humano. Se combinan enfoques lingüísticos tradicionales con modelos modernos basados en aprendizaje profundo (Deep Learning). 5.2. Temario de la asignatura 1. Introducción al PLN y procesamiento de texto básico (tokenización, stemming). 2. Modelos de lenguaje probabilísticos (N-gramas). 3. Representación de palabras: Word Embeddings (Word2Vec, GloVe). 4. Análisis sintáctico y etiquetado gramatical (POS tagging). 5. Análisis semántico y extracción de información. 6. Redes neuronales recurrentes (RNN) y arquitecturas Transformer para PLN. 7. Aplicaciones prácticas: traducción automática, análisis de sentimientos y chatbots.",
+    "metadata": {
+      "course_id": "105000071",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Procesamiento de Lenguaje Natural",
+      "ects": 6,
+      "semester": 8,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/2S/GA_10II_105000071_2S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Sistemas Embebidos: 5.1. Descripción de la asignatura Estudio del diseño e implementación de sistemas informáticos integrados en dispositivos de propósito específico. El curso incluye programación de microcontroladores, interacción con el hardware y sistemas operativos de tiempo real. 5.2. Temario de la asignatura 1. Arquitectura de microprocesadores y microcontroladores. 2. Programación a bajo nivel (C/C++) y manejo de memoria. 3. Interfaz con periféricos: GPIO, convertidores A/D y D/A, temporizadores. 4. Protocolos de comunicación serie (I2C, SPI, UART). 5. Sistemas operativos de tiempo real (RTOS): tareas, prioridades y planificación. 6. Consumo energético y diseño eficiente. 7. Aplicaciones en el Internet de las Cosas (IoT).",
+    "metadata": {
+      "course_id": "105000028",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Sistemas Embebidos",
+      "ects": 6,
+      "semester": 4,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/2S/GA_10II_105000028_2S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Programación Concurrente: 5.1. Descripción de la asignatura La asignatura introduce los conceptos fundamentales para desarrollar software que ejecuta múltiples tareas de forma simultánea. Se tratan los problemas clásicos de la concurrencia y los mecanismos para evitarlos. 5.2. Temario de la asignatura 1. Conceptos básicos de concurrencia y paralelismo. 2. Hilos (threads) y su gestión en lenguajes modernos (ej. Java, C++). 3. Problemas de concurrencia: condiciones de carrera y bloqueos (deadlocks). 4. Mecanismos de sincronización de bajo nivel: cerrojos (locks) y semáforos. 5. Mecanismos de alto nivel: monitores y variables de condición. 6. Patrones de diseño para programación concurrente (Productor-Consumidor, Lectores-Escritores).",
+    "metadata": {
+      "course_id": "105000018",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Programación Concurrente",
+      "ects": 6,
+      "semester": 4,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/2S/GA_10II_105000018_2S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Gestión de Proyectos Informáticos: 5.1. Descripción de la asignatura El objetivo es capacitar al alumno en las técnicas y herramientas necesarias para la planificación, ejecución y control de proyectos de desarrollo de software, abordando tanto metodologías tradicionales como ágiles. 5.2. Temario de la asignatura 1. El ciclo de vida del proyecto y su entorno. 2. Estimación de costes y esfuerzo en proyectos de software. 3. Planificación temporal y asignación de recursos. 4. Gestión de riesgos: identificación, análisis y mitigación. 5. Gestión de la calidad del software y métricas. 6. Gestión de equipos y habilidades de liderazgo. 7. Metodologías Ágiles en la gestión (Scrum, Kanban).",
+    "metadata": {
+      "course_id": "105000040",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Gestión de Proyectos Informáticos",
+      "ects": 6,
+      "semester": 7,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/1S/GA_10II_105000040_1S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Bases de Datos Avanzadas: 5.1. Descripción de la asignatura Continuación de la asignatura de Bases de Datos, orientada a la administración de bases de datos a gran escala, la optimización de consultas, el diseño de data warehouses y el estudio profundo de sistemas NoSQL. 5.2. Temario de la asignatura 1. Arquitectura interna de los SGBD relacionales. 2. Optimización y procesamiento de consultas avanzadas. 3. Administración de bases de datos: copias de seguridad, recuperación y seguridad. 4. Bases de datos distribuidas y procesamiento paralelo. 5. Inteligencia de Negocio: Data Warehousing y OLAP. 6. Sistemas NoSQL: bases de datos orientadas a documentos, grafos, clave-valor y columnares.",
+    "metadata": {
+      "course_id": "105000022",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Bases de Datos Avanzadas",
+      "ects": 6,
+      "semester": 5,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/1S/GA_10II_105000022_1S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Visión por Computador: 5.1. Descripción de la asignatura La visión por computador busca que las máquinas puedan interpretar y comprender el contenido visual. La asignatura cubre desde el procesamiento básico de imágenes hasta el uso de redes neuronales convolucionales para el reconocimiento de objetos. 5.2. Temario de la asignatura 1. Formación de la imagen y sensores. 2. Procesamiento de imágenes: filtrado, mejora y transformaciones morfológicas. 3. Extracción de características: bordes, esquinas y descriptores locales (SIFT, SURF). 4. Segmentación de imágenes. 5. Geometría epipolar y visión estéreo. 6. Reconocimiento de patrones y clasificación de imágenes mediante Machine Learning. 7. Redes Neuronales Convolucionales (CNN) aplicadas a la visión.",
+    "metadata": {
+      "course_id": "105000062",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Visión por Computador",
+      "ects": 6,
+      "semester": 8,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/2S/GA_10II_105000062_2S_2024-25.pdf"
+    }
+  },
+  {
+    "content": "Robótica Autónoma: 5.1. Descripción de la asignatura Introducción a los principios de la robótica móvil e industrial. Se analizan la cinemática, la percepción, la localización y la planificación de trayectorias en entornos desconocidos. 5.2. Temario de la asignatura 1. Introducción a la robótica y tipos de robots. 2. Cinemática y dinámica de robots móviles y manipuladores. 3. Sensores robóticos: telémetros, láser (LiDAR), ultrasonidos y cámaras. 4. Localización y mapeo simultáneo (SLAM). 5. Planificación de trayectorias y evasión de obstáculos. 6. Arquitecturas de control robótico (deliberativas vs. reactivas). 7. Entornos de simulación y middleware robótico (ROS).",
+    "metadata": {
+      "course_id": "105000068",
+      "university": "Universidad Politécnica de Madrid School of Computer Engineering",
+      "country": "ES",
+      "title": "Robótica Autónoma",
+      "ects": 6,
+      "semester": 8,
+      "syllabus_url": "https://www.upm.es/comun_gauss/publico/guias/2024-25/2S/GA_10II_105000068_2S_2024-25.pdf"
+    }
+  }
+]
